@@ -1,0 +1,24 @@
+{
+  "name": "scp-sshpass",
+  "version": "0.0.2",
+  "description": "Copiar por scp utilizando sshpass",
+  "main": "scp-sshpass.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elcascarudo-dev/scp-sshpass.git"
+  },
+  "keywords": [
+    "scp",
+    "sshpass",
+    "nodejs"
+  ],
+  "author": "El Cascarudo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elcascarudo-dev/scp-sshpass/issues"
+  },
+  "homepage": "https://github.com/elcascarudo-dev/scp-sshpass#readme"
+}
